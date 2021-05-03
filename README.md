@@ -11,3 +11,5 @@ Grafana charts for ledger cli using Simple Json datasource
    1. Configuration -> Data Sources -> Search for `SimpleJson`
    2. Enter URL: `localhost:5000` (or the address and port of the flask server)
 3. Start the data server: `python3 server.py <path to ledger data file>`
+
+![Screenshot](https://github.com/anuragpeshne/ledger-grafana/raw/main/screenshot.png "Screenshot")
